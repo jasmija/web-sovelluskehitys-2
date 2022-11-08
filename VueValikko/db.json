@@ -1,0 +1,64 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Eppu Normaali",
+      "date": "2020-08-03T21:00:00.000Z",
+      "place": "Tavastia"
+    },
+    {
+      "id": 2,
+      "name": "Rajaton",
+      "date": "2020-08-22T21:00:00.000Z",
+      "place": "Savoy"
+    },
+    {
+      "id": 3,
+      "name": "Aili Ikonen",
+      "date": "2020-09-02T21:00:00.000Z",
+      "place": "Savoy"
+    },
+    {
+      "id": 4,
+      "name": "Testi",
+      "date": "2020-09-22T13:42:30.104Z",
+      "place": "Tavastia"
+    },
+    {
+      "id": 5,
+      "name": "Suuri tähti",
+      "date": "2021-01-25T10:54:21.971Z",
+      "place": "Savoy"
+    },
+    {
+      "id": 6,
+      "name": "Koronatähti",
+      "date": "2021-08-27T11:01:34.815Z",
+      "place": "Savoy"
+    },
+    {
+      "name": "Stig",
+      "date": "18/02/2022",
+      "place": "Olympiastadion",
+      "id": 7
+    },
+    {
+      "name": "Lux Helsinki",
+      "date": "09/01/2023 19.00",
+      "place": "Helsinki",
+      "id": 8
+    },
+    {
+      "name": "Antti Tuisku",
+      "date": "12/12/2025",
+      "place": "Kamppi",
+      "id": 9
+    },
+    {
+      "name": "Adele",
+      "date": "01/02/2023 17.00",
+      "place": "Helsingin jäähalli",
+      "id": 10
+    }
+  ]
+}
